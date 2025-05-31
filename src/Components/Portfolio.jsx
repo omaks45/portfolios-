@@ -32,8 +32,7 @@ const imageAltText = "software developer";
 const projectList = [
   {
     title: "Naiya",
-    description: "E-commerce application where the physical market happens online"
-      "",
+    description: "E-commerce application where the physical market happens online",
     url: "https://naiya.ng/",
   },
   {
