@@ -31,16 +31,16 @@ const imageAltText = "software developer";
  */
 const projectList = [
   {
-    title: "Fitness class scheduler API 🎉",
-    description:
-      "This api allows a fitness trainer to manage available classes, where user can see availble classes signup and receive an email reminder to the class commencement he/she signed up for .",
-    url: "https://github.com/omaks45/Fitness-class",
+    title: "Naiya",
+    description: "E-commerce application where the physical market happens online"
+      "",
+    url: "https://naiya.ng/",
   },
   {
-    title: "Saveriffic",
+    title: "Shoppmoore",
     description:
-      "This is an api that allows a user to signup, login, save money and also perform some transactions like withdrawal, fixed deposit, transer etc. Though the api is still under development stage",
-    url: "https://github.com/omaks45/Saveriffic",
+      "The Epitome of Quality Shopping in Edo State, Nigeria. Bringing shopping to your comfort",
+    url: "https://shoppmoore.vercel.app/",
   },
 ];
 
